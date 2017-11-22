@@ -1,0 +1,41 @@
+"moins souple mais plus agile"
+
+- le passé
+* d"but à 14 ans
+* 1er ordi
+* l'évolution de mes ordi
+* les langages de prog, l'évolution des concepts (objet, framework)
+
+- les pubs > 50 ans
+
+- ce que je devrais penser des jeunes
+* ne savent rien faire
+* veulent ma place 
+* ...
+
+- la formation personnelle continue
+- l'envie
+- manager mais toujours développeur
+
+
+- apprentissage de l'agilité
+* monde qui change
+* aspiration à de meilleurs rapports humains
+* plus rude avec mes collaborateurs
+* découverte  agilité
+* mise en place 
+
+- relation avec les jeunes
+* faire grandir
+
+- concepts agigle permettent de formaliser l'expérience
+* e disais à mes étudiants il y a + d e10 ans:
+
+- donnez des noms qui ont du sens (Domain)
+
+- Faites en sorte qu'on lise comme une histoire
+- Créer des objets qui ont une finalité, un moteur c'est un moteur pas une bagnole !
+
+Conclusion
+- garder son esprit ouvert
+- demain des choses différentes d'aujourd'hui, ne pas avoir peur
